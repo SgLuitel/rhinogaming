@@ -1,0 +1,62 @@
+body {
+  margin: 0px;
+}
+.container {
+  background-image: url('background.jpg');
+  background-repeat: no-repeat
+  width: 100%;
+  height: 969px;
+  }
+
+.image_box {
+  padding-top: 50px;
+  text-align: center;
+  height: 200px;
+  width: 100%;
+  }
+
+img.logo {
+    height: 160px;
+}
+
+.Mid_container {
+  width: 100%;
+  height: 402px;
+}
+img.left_SL_pic {
+  float: right;
+  height: 390px;
+  border-radius: 143px;
+  padding-right: 80px;
+}
+
+.Left_container {
+  float: left;
+  width: 50%;
+}
+
+.right_container {
+  width: 50%;
+  float: right;
+}
+
+p.discription_01 {
+  margin: 87px 500px 0 0;
+  color: white;
+  font-family: system-ui;
+}
+
+p.discription_02 {
+  margin: 30px 500px 0 0;
+  color: white;
+  font-family: system-ui;
+}
+.footer {
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
